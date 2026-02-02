@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SeckillServiceApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(SeckillServiceApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(SeckillServiceApplication.class, args);
+  }
 }
